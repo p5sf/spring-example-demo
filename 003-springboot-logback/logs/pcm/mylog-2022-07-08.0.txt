@@ -1,0 +1,22 @@
+2022-07-08 07:59:59 -Starting Application on DESKTOP-JRH5OLH with PID 17600 (C:\Users\Yan\Desktop\temps\spring-example-demo\003-springboot-logback\target\classes started by Yan in C:\Users\Yan\Desktop\temps\spring-example-demo)
+2022-07-08 07:59:59 -No active profile set, falling back to default profiles: default
+2022-07-08 08:00:00 -Tomcat initialized with port(s): 8087 (http)
+2022-07-08 08:00:00 -Initializing ProtocolHandler ["http-nio-8087"]
+2022-07-08 08:00:00 -Starting service [Tomcat]
+2022-07-08 08:00:00 -Starting Servlet Engine: Apache Tomcat/9.0.12
+2022-07-08 08:00:00 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Environment\Java\JDK\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\Git\cmd;D:\Program Files\Xshell\;D:\Program Files\Xshell\Xftp\;C:\Users\Yan\.IntelliJIdea2019.1\shell;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;D:\Program Files\nvm;D:\Program Files\nodejs;D:\Environment\gradle\bin;D:\Program Files\erl-23.2\bin;D:\Program Files\RabbitMQ Server\rabbitmq_server-3.8.9\sbin;D:\Environment\Maven\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;D:\Program Files\Microsoft VS Code\bin;D:\Program Files\fiddler;C:\Users\Yan\AppData\Roaming\npm;C:\Users\Yan\AppData\Local\Pandoc\;.]
+2022-07-08 08:00:00 -Initializing Spring embedded WebApplicationContext
+2022-07-08 08:00:00 -Root WebApplicationContext: initialization completed in 851 ms
+2022-07-08 08:00:00 -Servlet dispatcherServlet mapped to [/]
+2022-07-08 08:00:00 -Mapping filter: 'characterEncodingFilter' to: [/*]
+2022-07-08 08:00:00 -Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2022-07-08 08:00:00 -Mapping filter: 'formContentFilter' to: [/*]
+2022-07-08 08:00:00 -Mapping filter: 'requestContextFilter' to: [/*]
+2022-07-08 08:00:00 -Initializing ExecutorService 'applicationTaskExecutor'
+2022-07-08 08:00:00 -Starting ProtocolHandler ["http-nio-8087"]
+2022-07-08 08:00:00 -Using a shared selector for servlet write/read
+2022-07-08 08:00:00 -Tomcat started on port(s): 8087 (http) with context path ''
+2022-07-08 08:00:00 -Started Application in 1.246 seconds (JVM running for 1.685)
+2022-07-08 08:00:11 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-08 08:00:11 -Initializing Servlet 'dispatcherServlet'
+2022-07-08 08:00:11 -Completed initialization in 2 ms

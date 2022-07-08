@@ -1,0 +1,8 @@
+server:
+  port: 8090
+spring:
+  application:
+    name: nacos-example-provider
+  cloud:
+    nacos:
+      server-addr: 192.168.232.130:8848

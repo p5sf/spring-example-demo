@@ -1,0 +1,28 @@
+
+nacos:
+  instance:
+    hostname: 192.168.232.130
+    port: 8848
+
+# sentinel信息参数
+sentinel:
+  instance:
+    hostname: 192.168.232.130
+    port: 5600
+
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: ${nacos.instance.hostname}:${nacos.instance.port}
+    sentinel:
+      transport:
+        dashboard: ${sentinel.instance.hostname}:${sentinel.instance.port}
+  application:
+    name: nacos-sentinel
+
+# 该服务启动后使用的端口
+server:
+  port: 8005
+
+testValue: welcome!!!
